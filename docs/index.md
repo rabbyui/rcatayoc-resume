@@ -28,6 +28,12 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - AAS with concentration in Social Media Marketing, and Business Analysis
 - Coursework includes social media marketing strategy, basic python programming and business intelligence & analytics
 
+`Mar 2013`
+__Capitol University__, Cagayan de Oro City, Philippines
+
+- Graduated with the degree, Mastaer in Business Management
+- Coursework includes organization planning, global marketing
+
 `Oct 2011`
 __Capitol University__, Cagayan de Oro City, Philippines
 
