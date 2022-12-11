@@ -6,10 +6,9 @@ title: Rabel Catayoc Resume
 Project Manager and Indepent Consultant.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="rabelcatayoc@byui.edu">rabelcatayoc@byui</a>
+| <a href="https://www.linkedin.com/in/rabel-catayoc/">LinkedIn</a>
+| <a href="https://github.com/rabbyui/rcatayoc-resume/blob/master/docs/index.md">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
