@@ -35,8 +35,17 @@ __Capitol University__, Cagayan de Oro City, Philippines
 - BS degree major in Human Resource Development Management
 - Coursework includes strategic human resource management, labor law, and labor relations
 
+## Related Courses
+
+- CIT111 - Introduction to Databases 
+- CSE110 - Introduction to Programming
+- CSE111 - Programming with Functions
+- DS150 - Data Intuition and Insight
+- DS250 - Data Science Programming
+
 
 ## Related Experience
+
 
 ### Internship
 
