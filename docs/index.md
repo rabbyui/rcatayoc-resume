@@ -84,6 +84,9 @@ __BRANDS Strategic Management Services__, Project Management Consultant
 `2021-Present`
 __Senior Service Missionary__, BYU-Pathway Worldwide
 
+`May 2004 - May 2006`
+__Full-time Missionary__, The Church of Jesus Christ of Latter-day Saints
+
 
 <!-- ### Footer
 
