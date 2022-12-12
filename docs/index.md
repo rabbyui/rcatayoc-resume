@@ -34,6 +34,7 @@ __Capitol University__, Cagayan de Oro City, Philippines
 
 - Graduated with the degree, Master in Business Management
 - Coursework includes organization planning, global marketing
+- Thesis: "Gauging Industry-Oriented Competencies among BSBA-HRDM Graduates: Basis for Development of Competency Enhancement Program and Proposed Policies to the Commission on Higher Education (CHED) for the Improvement of the Curriculum" 
 
 `Oct 2011`
 __Capitol University__, Cagayan de Oro City, Philippines
