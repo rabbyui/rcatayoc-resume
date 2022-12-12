@@ -22,8 +22,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Taking up Bachelor of Science in Applied Technology
 
 `July 2021`
-__Brigham Young University - Idaho__, Rexburg, ID
-__Associate of Applied Science in Professional Studies__
+__Brigham Young University - Idaho (AAS in Professional Studies)__, Rexburg, ID
 
 _Social Media Marketing (Certificate)_
 - Major coursework include social media marketing strategy, content, analytics, advertising, and Advocacy and Advertising
