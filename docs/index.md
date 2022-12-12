@@ -96,4 +96,4 @@ __Full-time Missionary__, The Church of Jesus Christ of Latter-day Saints
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2022 -->
