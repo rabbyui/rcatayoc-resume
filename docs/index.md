@@ -23,6 +23,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 `July 2021`
 __Brigham Young University - Idaho__, Rexburg, ID
+
 __Associate of Applied Science in Professional Studies__
 
 _Social Media Marketing (Certificate)_
