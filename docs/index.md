@@ -81,7 +81,7 @@ __Thrive Internet Marketing Agency__, Arlington, Texas, USA - Project Manager
 - Performs reputation-management works to boost clients’ brand name reputation
 
 `Feb 2011 - Present`
-__BRANDS Strategic Management Services__, Project Management Consultant
+__BRANDS Strategic Management Services__, Philippines - Project Management Consultant
 
 - Analyze the strengths, weaknesses, and risks of existing project plans, as well as recommending improvements.
 - Determine the scope of projects via consultation and investigation.
