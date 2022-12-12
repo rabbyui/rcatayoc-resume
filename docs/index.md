@@ -3,7 +3,6 @@ layout: cv
 title: Rabel Catayoc's Resume
 ---
 # Rabel Catayoc
-
 Project Manager | Independent Consultant
 
 <div id="webaddress">
