@@ -3,7 +3,7 @@ layout: cv
 title: Rabel Catayoc Resume
 ---
 # Rabel Catayoc
-Project Manager and Indepent Consultant.
+Project Manager | Independent Consultant
 
 <div id="webaddress">
 <a href="rabelcatayoc@byui.edu">rabelcatayoc@byui</a>
@@ -15,15 +15,16 @@ Project Manager and Indepent Consultant.
 
 ## Education
 
-`Present`
+`Expected 2025`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Taking up Bachelor of Science in Applied Technology
-- Coursework includes web frontend development, graphic design, and web development
+- Coursework includes web frontend development, databases, web backend development, and software development
 
 `July 2021`
 __Brigham Young University - Idaho__, Rexburg, ID
 
+- 3.9 Major GPA
 - Graduated with the degree Associate of Applied Science in Professional Studies
 - AAS with concentration in Social Media Marketing, and Business Analysis
 - Coursework includes social media marketing strategy, basic python programming and business intelligence & analytics
@@ -31,7 +32,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `Mar 2013`
 __Capitol University__, Cagayan de Oro City, Philippines
 
-- Graduated with the degree, Mastaer in Business Management
+- Graduated with the degree, Master in Business Management
 - Coursework includes organization planning, global marketing
 
 `Oct 2011`
